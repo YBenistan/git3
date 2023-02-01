@@ -10,4 +10,7 @@ public void fixedAmount() {
 System.out.println("Fixed Amount :3000");
 }
 
+public void empName() {
+System.out.println("Emp name is : ABC");
+}
 }
